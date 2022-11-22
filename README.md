@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🤖
+
+I am a math freak who is learning to make intelligent machines 🧠
 
 <!--
 **sashakttripathi/sashakttripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
