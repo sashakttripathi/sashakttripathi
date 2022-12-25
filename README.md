@@ -2,8 +2,6 @@
 
 I am a math freak who is loves to play with computers 🧠
 
-Game Dev @ Kalam Labs
-
 <!--
 **sashakttripathi/sashakttripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
