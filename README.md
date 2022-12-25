@@ -1,6 +1,6 @@
 ### Hi there 🤖
 
-I am a math freak who is learning to make intelligent machines 🧠
+I am a math freak who is loves to play with computers 🧠
 
 Game Dev @ Kalam Labs
 
