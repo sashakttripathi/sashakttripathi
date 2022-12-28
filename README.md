@@ -1,6 +1,6 @@
 ### Hi there 🤖
 
-I am a math freak who is loves to play with computers 🧠
+I am a math freak who loves to play with computers 🧠
 
 <!--
 **sashakttripathi/sashakttripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
